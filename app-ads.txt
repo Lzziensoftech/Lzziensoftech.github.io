@@ -12,6 +12,8 @@ google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 google.com, pub-9041187040625593, DIRECT, f08c47fec0942fa0
 #=== AudienceNetwork
 facebook.com, 413045218416754, DIRECT, c3e20eee3f780d68
+facebook.com, 805069172997110, DIRECT, c3e20eee3f780d68
+facebook.com, 1081332032712445, DIRECT, c3e20eee3f780d68
 #=== Pangle Dec 19, 2023
 pangleglobal.com, 86231, DIRECT
 pangleglobal.com, 5015768, DIRECT
