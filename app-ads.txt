@@ -17,5 +17,3 @@ lijit.com, 357833-eb, DIRECT, fafdf38b16bf6b2b
 facebook.com, 413045218416754, DIRECT, c3e20eee3f780d68
 
 # hariomyadav09062003@gmail.com
-#=== GoogleAds 
-google.com, pub-3128890741578449, DIRECT, f08c47fec0942fa0
