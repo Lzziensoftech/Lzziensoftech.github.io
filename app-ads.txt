@@ -21,6 +21,8 @@ thebeglobal.com, 23201050440, DIRECT
 #=== AudienceNetwork
 facebook.com, 413045218416754, DIRECT, c3e20eee3f780d68
 
+google.com, pub-3128890741578449, DIRECT, f08c47fec0942fa0
+
 # hariomyadav09062003@gmail.com
 
 # CAS.ai Updated Sep 14, 2024, support@cleveradssolutions.com
